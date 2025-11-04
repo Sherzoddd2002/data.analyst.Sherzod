@@ -60,7 +60,7 @@ Earned the **Applied Data Science Lab** badge from *WorldQuant University*, comp
 
 ## 🧾 Certificate
 
-**Badge:** [Applied Data Science Lab — WorldQuant University]([https://www.worldquantuniversity.com/applied-labs/](https://www.credly.com/badges/cf6be2c3-98a3-4bc3-b9d0-4313ebe92728))
+**Badge:** [[Applied Data Science Lab — WorldQuant University](https://www.credly.com/badges/cf6be2c3-98a3-4bc3-b9d0-4313ebe92728/public_url)]([https://www.worldquantuniversity.com/applied-labs/](https://www.credly.com/badges/cf6be2c3-98a3-4bc3-b9d0-4313ebe92728))
 **Issued:** 2025
 **Skills Validated:** Data Science, Machine Learning, API Design, Data Visualization, SQL, MongoDB, Statistics
 
