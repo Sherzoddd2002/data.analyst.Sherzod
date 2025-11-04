@@ -70,7 +70,7 @@ Earned the **Applied Data Science Lab** badge from *WorldQuant University*, comp
 
 **Sherzod Orolov**
 📍 Uzbekistan
-💼 [LinkedIn](#) | 🐙 [GitHub](https://github.com/Sherzoddd2002/data.analyst.Sherzod/edit/main/README.md) | ✉️ [sherzoduralov22@gmail.com](sherzoduralov22@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/sherzod-o-rolov-b52187327/) | 🐙 [GitHub](https://github.com/Sherzoddd2002/data.analyst.Sherzod/edit/main/README.md) | ✉️ [sherzoduralov22@gmail.com](sherzoduralov22@gmail.com)
 
 ---
 
