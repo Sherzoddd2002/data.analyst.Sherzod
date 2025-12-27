@@ -1,4 +1,4 @@
-
+import streamlit as st
 # 1. SAHIFA SOZLAMALARI
 st.set_page_config(page_title="Call Center Analysis", layout="wide")
 
