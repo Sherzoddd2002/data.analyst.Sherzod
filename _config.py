@@ -1,4 +1,11 @@
 import streamlit as st
+import pandas as pd
+import numpy as np
+import streamlit as st
+import datetime
+import plotly.express as px
+
+
 # 1. SAHIFA SOZLAMALARI
 st.set_page_config(page_title="Call Center Analysis", layout="wide")
 
